@@ -21,11 +21,13 @@ public class ColorWheel {
             "#f092b0", // pink
             "#b7c0c7", // light gray
             "#ddca8b"  // bronze
+            "#b7c0c7", // light gray
+            "#8b4513"  // gold
     };
 
     // Method (abilities: things the object can do)
     public int getColor() {
-        String color = "";
+        String color;
 
         // Randomly select a fact
         Random randomGenerator = new Random(); // Construct a new Random number generator
