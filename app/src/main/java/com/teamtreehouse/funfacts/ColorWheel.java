@@ -20,8 +20,7 @@ public class ColorWheel {
             "#637a91", // dark gray
             "#f092b0", // pink
             "#b7c0c7", // light gray
-            "#ddca8b"  // bronze
-            "#b7c0c7", // light gray
+            "#ddca8b", // bronze
             "#8b4513"  // gold
     };
 
